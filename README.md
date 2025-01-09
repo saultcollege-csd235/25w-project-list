@@ -44,7 +44,7 @@ Build an app that helps people learn musical notation and site reading.  Allow t
 
 Create a data processing WordPress plugin for a local auto parts company.  Data from multiple sources must be transformed into a common format to be integrated within an existing website.
 
-## Project 7: Gourmet2Go App 
+## CLAIMED by Bridge ~Project 7: Gourmet2Go App~
 *(Full stack web app)*
 
 Work with culinary studies to develop a web app that helps them organize their Gourmet2Go program.  Allow administrators to set a meal menu for specific days, and allow Sault college members to sign up and order from that menu for pickup at specific times.

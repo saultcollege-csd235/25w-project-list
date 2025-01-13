@@ -34,7 +34,7 @@ Update an existing dashboard for hotel clients.  Add features such as creating e
 
 Build an attention-grabbing app to showcase Sault College's Computer Programming program during open houses and school fairs. Ideas welcome!
 
-## Project 5: Site Reading Practice App
+## CLAIMED by Mosaic ~Project 5: Site Reading Practice App~
 *(Cross-platform mobile app)*
 
 Build an app that helps people learn musical notation and site reading.  Allow the creation of 'profiles' within a single account so that one account may be used to track the progress on several profiles (particularly useful for families with children).
@@ -54,4 +54,6 @@ Work with culinary studies to develop a web app that helps them organize their G
 > The following projects have been proposed by a team and accepted
 
 ### CLAIMED by Vortex: Group trip planning app
+
+### CLAIMED by Radon: Sports event prediction app
 
